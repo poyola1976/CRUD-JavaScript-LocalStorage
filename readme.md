@@ -19,7 +19,7 @@ Esta es una aplicación de administración de empleados simple que utiliza HTML,
 
 ## Créditos
 
-Este proyecto fue desarrollado por Pablo Oyola como parte de un ejercicio de práctica en HTML, CSS y JavaScript.
+Este proyecto fue desarrollado por Pablo Oyola Lepe como parte de un ejercicio de práctica en HTML, CSS y JavaScript.
 
 
 

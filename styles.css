@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: beige;
+}
+.div-titulo {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-titulo h1 {
+    font-weight: 300;
+}
+.btn {
+    padding: 5px 10px;
+    border: none;
+    margin: 0 5px;
+    color: white;
+    border-radius: 5px;
+
+}
+
+.btn-Agregar {
+    padding: 5px 10px;
+    background-color: rgb(50, 50, 150);
+    border: none;
+    margin: 0 5px;
+    color: white;
+    border-radius: 5px;
+}
+.btn-editar {
+    background-color: green;
+
+}
+.btn-eliminar {
+    background-color: red;
+}
+.contenedor .div-listado .div-empleados {
+    margin: 10px 0;
+    color: #000000;
+}
+.contenedor {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    padding: 0 30px;
+    justify-content: center;
+    align-items: center;
+}
